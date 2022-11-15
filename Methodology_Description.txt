@@ -14,7 +14,8 @@ To read:
 
 - audio_paper1 up to the 4th page;
 
-- 
+- go through DeepAR.pdf, TFP.pdf N-BEATS.pdf
+
 
 Methods to implement:
 
@@ -23,6 +24,8 @@ Methods to implement:
 1) Amazon DeepAR https://github.com/arrigonialberto86/deepar (DeepAR.pdf)
 2) Temporal Fusion Transformers (TFP) https://github.com/google-research/google-research/tree/master/tft
 3) N-BEATS https://github.com/Sorooshi/Depression_AudioFiles/tree/dev (N-BEATS.pdf)
+4) 
+5) 
 
 
 Tune the parameters using:
