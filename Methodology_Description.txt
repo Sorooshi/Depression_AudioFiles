@@ -1,4 +1,4 @@
-# Algorithms to Implement:
+# Methodology:
 
 Please, use the link below to implement the below-mentioned algorithms in the form of a Python script.
 
@@ -36,6 +36,8 @@ Tune the parameters using:
 
 
 Useful links:
+
+https://scikit-learn.org/stable/
 
 https://online.stanford.edu/courses/sohs-ymusic0001-audio-signal-processing-music-applications
 
